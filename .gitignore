@@ -1,0 +1,10 @@
+# venv
+env/
+
+# Cache
+__pycache__
+.DS_Store
+
+# Images
+grid_screenshots/
+tmp/
