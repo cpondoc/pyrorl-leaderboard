@@ -4,9 +4,12 @@ A way to upload a file and evaluate your policy against random configurations of
 
 ## Set-Up
 
+### Backend
+
 First, set up the environment:
 
 ```bash
+cd backend
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt

@@ -1,10 +1,10 @@
 # venv
-env/
+backend/env/
 
 # Cache
-__pycache__
-.DS_Store
+backend/__pycache__
+backend/.DS_Store
 
 # Images
-grid_screenshots/
-tmp/
+backend/grid_screenshots/
+backend/tmp/
